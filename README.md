@@ -1,24 +1,63 @@
-# Lab 1 - Well-Equipped: Knowing Your Instruments
+# Lab Report 1: Well Equipped: Knowing Your Instruments
 
-# By: Isaac Stevens and Eli Barrow
-# Summary
-The goal of the lab was to gain a greater understanding of lab equipment; The Summary of work includes setting up equipment, measuring values, and answering lab questions; The summary of the outcome was not to trust equipment blindly when it comes to measuring values in a circuit
-# Materials
-List materials used in the lab (not the testing equipment, but that used to build the lab project)
-# Assembly Procedures
-Provide basic summary of steps performed in lab (Do not copy and paste from lab assignment.) The important part here is to provide detail that you had to develop in the lab which will be more important in later labs.
-You must include Schematics, Engineering Drawings, and Programming if appropriate in this section.
-1. This is step 1.
-2. This is step 2.
-3. This is step 3.
-I am now including an image as an example: 
-![](https://github.com/joedvorak/BAE305-Sp19-Lab1/blob/master/Repository%20Creation.png)
-# Test Equipment
-List multimeters and other equipment used for testing and creating results.
-# Test Procedures
-How did you test the system to get your results
-# Test Results
-What are your results?
-# Discussion
-Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?# BAE305-SP24-Lab1
-Lab 1 of BAE 305
+* Eli Barrow
+* Isaac Stevens
+
+## This is my lab report
+This report includes text and also figures that I linked from my repository.
+Like this:
+![A test image](https://github.com/cjarro-uky/BAE305-SP24-Lab1/blob/main/20240110_100436.jpg)
+
+Or perhaps a nicer smaller, centered image like this (using html):
+
+<p align="center">
+  <img src=https://github.com/cjarro-uky/BAE305-SP24-Lab1/blob/main/20240110_100436.jpg width=50%>
+</p>
+
+Also I can include math functions like this:
+
+$$V(V) = I(A)*R(&Omega;)$$
+
+$$P = I^2*R$$
+
+Also I have to include code like this:
+
+```c++
+void recvWithEndMarker() {
+    static byte ndx = 0;
+    char endMarker = '\n';
+    char rc;
+    
+    while (mySerial.available() > 0 && newData == false) {
+        rc = mySerial.read();
+
+        if (rc != endMarker) {
+            receivedChars[ndx] = rc;
+            ndx++;
+            if (ndx >= numChars) {
+                ndx = numChars - 1;
+            }
+        }
+        else {
+            receivedChars[ndx] = '\0'; // terminate the string
+            ndx = 0;
+            newData = true;
+        }
+    }
+}
+```
+Also I can make **bold** and *emphatic* statements and add tables like this:
+
+| Variable | Value |
+|:---:|---|
+|   V      | 5 V   |
+| R        | 1 k&Omega; |
+| I        | 5 mA  |
+
+Check out these links:
+
+[Link for images](https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content)
+
+[Link for code](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
+
+[Link for tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
