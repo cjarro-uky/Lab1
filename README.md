@@ -2,7 +2,7 @@
 
 # By: Isaac Stevens
 # Summary
-Lab goal; summary of work performed; summary of outco
+The goal of the lab was to gain a greater understanding of lab equipment; summary of work performed; summary of outco
 Lab 1 will be somewhat different since this is an introduction to the equipment.
 # Materials
 List materials used in the lab (not the testing equipment, but that used to build the lab project)
