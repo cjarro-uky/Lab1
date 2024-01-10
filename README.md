@@ -1,9 +1,8 @@
 # Lab 1 - Well-Equipped: Knowing Your Instruments
 
-# By: Isaac Stevens
+# By: Isaac Stevens and Eli Barrow
 # Summary
-The goal of the lab was to gain a greater understanding of lab equipment; summary of work performed; summary of outco
-Lab 1 will be somewhat different since this is an introduction to the equipment.
+The goal of the lab was to gain a greater understanding of lab equipment; The Summary of work includes setting up equipment, measuring values, and answering lab questions; The summary of the outcome was not to trust equipment blindly when it comes to measuring values in a circuit
 # Materials
 List materials used in the lab (not the testing equipment, but that used to build the lab project)
 # Assembly Procedures
