@@ -8,9 +8,15 @@ The project goal of this lab was to become comfortable with the lab equipment th
 
 ## Lab Schematics and Procedure
 
+Connect the DMM alligator clamps to both ends of the resistor and set the DMM to measure Ohms. Compare the measured value to the expected value and check to see if it falls within the resistor's tolerance. Repeat for all 4 resistors.
+
 ![Resistor Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/0001.jpg)
 
+Connect the DMM alligator clamps to both ends of the capacitors and set the DMM to measure the Farads. Compare the measured value to the expected value and check to see if it falls within the capacitor's tolerance if it has one. Repeat for all 4 capacitors.
+
 ![Capacitor Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/0002.jpg)
+
+
 
 ![DC Power Supply Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/0003.jpg)
 
