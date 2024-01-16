@@ -8,7 +8,8 @@ The project goal of this lab was to become comfortable with the lab equipment th
 
 ## Lab Schematics and Procedure
 
-![A test image](https://github.com/cjarro-uky/BAE305-SP24-Lab1/blob/main/20240110_100436.jpg)
+![A test image][Uploading Lab 1 Image.jpg…]()
+
 
 ## Lab Assignment Specific Items
 ***Question 1:***   
