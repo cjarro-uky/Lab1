@@ -7,7 +7,7 @@ Jan. 10, 2024
 The project goal of this lab was to become comfortable with the lab equipment that we will be using all semester, we experimented with a power supply, oscilloscope, a function generator, and a Fluke DMM. We began the lab by determining the expected, maximum, and minimum values of resistors using the Fluke DMM. We then did the same type of experimenting with Capacitors to find the expected, maximum, and minimum capacitance of each capacitor we were given. Next, we began to work with the o-scope, function generator, and power supply to run various tests. By the end of the lab, I am certain that Isaac and I are more comfortable using the lab equipment now than before beginning the lab.
 
 ## Lab Schematics and Procedure
-
+The Oscillo
 ![A test image](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/Lab%201%20Image.jpg)
 
 
