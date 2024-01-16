@@ -24,7 +24,7 @@ The oscilloscope was wired to a function generator with a 10KΩ resistor and use
 
 ![Oscilloscope Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/Lab%201%20Image.jpg)
 
-For Lab 1, no code is required to setup and complete the lab.
+For Lab 1, no code is required to set up and complete the lab.
 
 
 ## Lab Assignment Specific Items
@@ -96,6 +96,9 @@ When you change either the frequency or amplitude the o-scope and Fluke DMM chan
 
 
 ***Note: All code above this line was written by Eli Barrow***
+
+## Outcome and Results of Lab
+The goal of the lab was to properly test measurement devices commonly used in circuit labs and understand readings from these devices should not be trusted blindly. Common sense must be applied when measuring voltage, resistance, capacitance, amplitude, and frequency, and failure to do so can lead to incorrect data and conclusions when experimenting. Stopped writing here but will ask Eli questions.
 
 
 
