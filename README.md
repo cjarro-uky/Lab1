@@ -98,59 +98,8 @@ When you change either the frequency or amplitude the o-scope and Fluke DMM chan
 ***Note: All code above this line was written by Eli Barrow***
 
 ## Outcome and Results of Lab
-The goal of the lab was to properly test measurement devices commonly used in circuit labs and understand readings from these devices should not be trusted blindly. Common sense must be applied when measuring voltage, resistance, capacitance, amplitude, and frequency, and failure to do so can lead to incorrect data and conclusions when experimenting. Stopped writing here but will ask Eli questions.
+The goal of the lab was to properly test measurement devices commonly used in circuit labs and understand readings from these devices should not be trusted blindly. Common sense must be applied when measuring voltage, resistance, capacitance, amplitude, and frequency, and failure to do so can lead to incorrect data and conclusions when experimenting.
 
-
-
-This report includes text and also figures that I linked from my repository.
-Like this:
-![A test image](https://github.com/cjarro-uky/BAE305-SP24-Lab1/blob/main/20240110_100436.jpg)
-
-Or perhaps a nicer smaller, centered image like this (using HTML):
-
-<p align="center">
-  <img src=https://github.com/cjarro-uky/BAE305-SP24-Lab1/blob/main/20240110_100436.jpg width=50%>
-</p>
-
-Also I can include math functions like this:
-
-$$V(V) = I(A)*R(&Omega;)$$
-
-$$P = I^2*R$$
-
-Also I have to include code like this:
-
-```c++
-void recvWithEndMarker() {
-    static byte ndx = 0;
-    char endMarker = '\n';
-    char rc;
-    
-    while (mySerial.available() > 0 && newData == false) {
-        rc = mySerial.read();
-
-        if (rc != endMarker) {
-            receivedChars[ndx] = rc;
-            ndx++;
-            if (ndx >= numChars) {
-                ndx = numChars - 1;
-            }
-        }
-        else {
-            receivedChars[ndx] = '\0'; // terminate the string
-            ndx = 0;
-            newData = true;
-        }
-    }
-}
-```
-Also, I can make **bold** and *emphatic* statements and add tables like this:
-
-| Variable | Value |
-|:---:|---|
-|   V      | 5 V   |
-| R        | 1 k&Omega; |
-| I        | 5 mA  |
 
 Check out these links:
 
