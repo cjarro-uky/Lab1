@@ -12,11 +12,11 @@ Connect the DMM alligator clamps to both ends of the resistor and set the DMM to
 
 ![Resistor Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/0001.jpg)
 
-Connect the DMM alligator clamps to both ends of the capacitors and set the DMM to measure the Farads. Compare the measured value to the expected value and check to see if it falls within the capacitor's tolerance if it has one. Repeat for all 4 capacitors.
+Connect the DMM alligator clamps to both ends of the capacitors and set the DMM to measure Farads. Compare the measured value to the expected value and check to see if it falls within the capacitor's tolerance if it has one. Repeat for all 4 capacitors.
 
 ![Capacitor Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/0002.jpg)
 
-
+Connect the DMM alligator clamps to the DC power supply plugs and set the DMM to measure voltage. Compare the measured value to the expected value for 1.5V, 7V, and 12V and document the results. Next change the DC power supply plugs to 3.3V/5.0V and 12V outputs on the power supply and document the DMM measurement values.
 
 ![DC Power Supply Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/0003.jpg)
 
