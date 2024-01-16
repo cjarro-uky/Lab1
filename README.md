@@ -98,13 +98,4 @@ When you change either the frequency or amplitude the o-scope and Fluke DMM chan
 ***Note: All code above this line was written by Eli Barrow***
 
 ## Outcome and Results of Lab
-The goal of the lab was to properly test measurement devices commonly used in circuit labs and understand readings from these devices should not be trusted blindly. Common sense must be applied when measuring voltage, resistance, capacitance, amplitude, and frequency, and failure to do so can lead to incorrect data and conclusions when experimenting.
-
-
-Check out these links:
-
-[Link for images](https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content)
-
-[Link for code](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
-
-[Link for tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+The goal of the lab was to properly test measurement devices commonly used in circuit labs and understand readings from these devices should not be trusted blindly. Common sense must be applied when measuring voltage, resistance, capacitance, amplitude, and frequency, and failure to do so can lead to incorrect data and conclusions when experimenting. The results of the lab also supported this with the readings of the measurement devices during each step needing to be interpreted and double-checked to confirm the data was valid.
