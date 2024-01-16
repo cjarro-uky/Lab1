@@ -24,6 +24,8 @@ The oscilloscope was wired to a function generator with a 10KΩ resistor and use
 
 ![Oscilloscope Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/Lab%201%20Image.jpg)
 
+For Lab 1, no code is required to setup and complete the lab.
+
 
 ## Lab Assignment Specific Items
 ***Question 1:***   
