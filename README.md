@@ -8,7 +8,7 @@ The project goal of this lab was to become comfortable with the lab equipment th
 
 ## Lab Schematics and Procedure
 
-![A test image]([(https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/Lab%201%20Image.jpg)
+![A test image]((https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/Lab%201%20Image.jpg)
 
 
 ## Lab Assignment Specific Items
