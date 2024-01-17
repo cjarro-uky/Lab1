@@ -50,7 +50,7 @@ Considering the expected, minimum, and maximum values for these resistors we can
 |:---|:---:|:---:|:---:|:---:|:---:|---:|
 |   blue   | ceramic      |10,000      | 10,000.25 | 9,999.75 | 10,200         | In Range |
 | yellow   | ceramic      |1000       | 1100     | 900     | 1300          | In Range |
-| black    | electrolytic | 1 x 10^8 | ---      | ---     | 97900000      | In Range |
+| black    | electrolytic | 100000000 | ---      | ---     | 97900000      | In Range |
 | blue     | electrolytic | 100000000 |---       | ---     | 106000000     | Out of Range |
 
 *a.) Do the instruments agree with the expected value?*  
